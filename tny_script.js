@@ -4,8 +4,8 @@
    Tutorial Case
 
    Countdown Clock
-   Author: 
-   Date:   
+   Author: Todd Nash 
+   Date: October 2, 2025
 
 */
 
